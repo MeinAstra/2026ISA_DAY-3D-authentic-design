@@ -19,12 +19,19 @@ Any proposed institutional or commercial use, including mass production by the s
 
 Publication of this repository does not constitute a transfer of intellectual property rights or a grant of an open-source license.
 
+Design 1
+Process:
 <img width="2096" height="1041" alt="B-v3-angled" src="https://github.com/user-attachments/assets/12e3bdf8-4b1c-4e07-b627-4c94c689a182" />
-
 <img width="1800" height="420" alt="Perspective-comparison" src="https://github.com/user-attachments/assets/c54d22e5-52bb-43c2-903a-b3a48f1e364c" />
+Effect:
+<img width="646" height="534" alt="image" src="https://github.com/user-attachments/assets/2c3595dc-bd0f-46ef-bbfe-69ae24d27d51" />
+<img width="820" height="518" alt="Screenshot 2026-11-25 at 00 56 14" src="https://github.com/user-attachments/assets/5bf6c557-e4b4-46af-8cb4-b802e791eddc" />
 
+Design2
+Process"
 <img width="570" height="324" alt="image" src="https://github.com/user-attachments/assets/d9cff193-a7d8-4144-8d8b-ff4eed174f53" />
 <img width="1132" height="771" alt="Dimensioned" src="https://github.com/user-attachments/assets/6f9a3fcb-7d62-4f50-b227-72c7eb8ea3b7" />
+Effect:
 <img width="689" height="512" alt="image" src="https://github.com/user-attachments/assets/cbc38dbf-fc3a-43ba-9a1a-29a46004985b" />
 
 
