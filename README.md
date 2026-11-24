@@ -24,6 +24,10 @@ Publication of this repository does not constitute a transfer of intellectual pr
 <img width="1800" height="420" alt="Perspective-comparison" src="https://github.com/user-attachments/assets/c54d22e5-52bb-43c2-903a-b3a48f1e364c" />
 
 <img width="570" height="324" alt="image" src="https://github.com/user-attachments/assets/d9cff193-a7d8-4144-8d8b-ff4eed174f53" />
+<img width="1132" height="771" alt="Dimensioned" src="https://github.com/user-attachments/assets/6f9a3fcb-7d62-4f50-b227-72c7eb8ea3b7" />
+<img width="689" height="512" alt="image" src="https://github.com/user-attachments/assets/cbc38dbf-fc3a-43ba-9a1a-29a46004985b" />
+
+
 
 
 # ISA Day 2026 — Student-Led Design & Digital Fabrication
