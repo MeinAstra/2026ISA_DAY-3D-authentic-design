@@ -23,6 +23,9 @@ Publication of this repository does not constitute a transfer of intellectual pr
 
 <img width="1800" height="420" alt="Perspective-comparison" src="https://github.com/user-attachments/assets/c54d22e5-52bb-43c2-903a-b3a48f1e364c" />
 
+<img width="570" height="324" alt="image" src="https://github.com/user-attachments/assets/d9cff193-a7d8-4144-8d8b-ff4eed174f53" />
+
+
 # ISA Day 2026 — Student-Led Design & Digital Fabrication
 
 *An independent design and engineering initiative by Jocelyn Xu, Secretary-General of the Student Council, ISA Wuhan.*
