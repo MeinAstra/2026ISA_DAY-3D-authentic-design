@@ -46,6 +46,8 @@ Effect:
 
 <img width="689" height="512" alt="image" src="https://github.com/user-attachments/assets/cbc38dbf-fc3a-43ba-9a1a-29a46004985b" />
 
+(flat ver)
+<img width="711" height="442" alt="image" src="https://github.com/user-attachments/assets/47dba710-bf88-4d94-8865-339648df209d" />
 
 
 
